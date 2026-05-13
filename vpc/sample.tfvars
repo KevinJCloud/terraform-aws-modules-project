@@ -1,0 +1,6 @@
+my_vpc = "first-vpc"
+vpc_cidr_block = "10.10.0.0/16"
+my_igw = "first-igw"
+my_route = "first-route"
+my_subnet = "first-subnet"
+subnet_cidr = "10.10.10.0/24"
